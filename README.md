@@ -1,6 +1,5 @@
 ### 😊 About Me
-👋 Hi I'm Mark Berio
-🎓 Graduate with a Bachelor of Science in Computer Engineering
+👋 Hi I'm Mark Berio                                                                                                                                                                                              🎓 Graduate with a Bachelor of Science in Computer Engineering
 👀 I'm Interested in Web Development, Web Design, Technical Support, Embedded Systems, VB.NET Development
 😉 I Love Playing Music on 🎵 Spotify , 🎮📲 Online Gaming (ML, CODM), and 🏀 Basketball
 📚 I'm currently Learning HTML, CSS, JavaScript, Node.JS, React.JS, PHP, MYSQL
