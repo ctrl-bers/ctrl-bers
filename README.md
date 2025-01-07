@@ -1,9 +1,9 @@
 ### 😊 About Me
-👋 Hi I'm Mark Berio                                                                                                                                                                                              🎓 Graduate with a Bachelor of Science in Computer Engineering
-👀 I'm Interested in Web Development, Web Design, Technical Support, Embedded Systems, VB.NET Development
-😉 I Love Playing Music on 🎵 Spotify , 🎮📲 Online Gaming (ML, CODM), and 🏀 Basketball
-📚 I'm currently Learning HTML, CSS, JavaScript, Node.JS, React.JS, PHP, MYSQL
-😇 I'm looking for collaboration for JS, python, and PHP because I want to learn back-end developer
+- 👋 Hi I'm Mark Berio                                                                                                                                                                                              - 🎓 Graduate with a Bachelor of Science in Computer Engineering
+- 👀 I'm Interested in Web Development, Web Design, Technical Support, Embedded Systems, VB.NET Development
+- 😉 I Love Playing Music on 🎵 Spotify , 🎮📲 Online Gaming (ML, CODM), and 🏀 Basketball
+- 📚 I'm currently Learning HTML, CSS, JavaScript, Node.JS, React.JS, PHP, MYSQL
+- 😇 I'm looking for collaboration for JS, python, and PHP because I want to learn back-end developer
 
 ### 🧑‍💻 Programming Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
