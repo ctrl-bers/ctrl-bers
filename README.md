@@ -43,6 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40" alt="GitHub" />
+  <img src="https://assets.vercel.com/image/upload/front/assets/design/vercel-triangle-white.svg" height="40" alt="Vercel Logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino IDE" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" height="40" alt="Stack Overflow" />
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40" alt="Discord" />
