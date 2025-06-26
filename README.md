@@ -1,9 +1,8 @@
 ### 😊 About Me
-- 👋 Hi I'm Mark Berio
-- 🎓 Graduate with a Bachelor of Science in Computer Engineering
-- 👀 I'm Interested in Web Development, Web Design, Technical Support, Embedded Systems, VB.NET Development
-- 😉 I Love Playing Music on 🎵 Spotify , 🎮📲 Online Gaming (ML, CODM), and 🏀 Basketball
-
+- 👋 Hi I'm Mark Berio  
+- 🎓 Graduate with a Bachelor of Science in Computer Engineering  
+- 👀 I'm Interested in Web Development, Web Design, Technical Support, Embedded Systems, VB.NET Development  
+- 😉 I Love Playing Music on 🎵 Spotify, 🎮📲 Online Gaming (ML, CODM), and 🏀 Basketball  
 
 ---
 
@@ -22,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="40" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET" />
@@ -45,17 +43,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino IDE" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Vercel_logo_2025.svg" height="40" alt="Vercel" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" height="40" alt="Stack Overflow" />
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40" alt="Discord" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg" height="40" alt="Microsoft Teams" />
 </p>
 
 ---
 
-### 🤖 AI Tools I Used  
+### 🤖 AI Tools I Use  
 <p align="left">
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" height="40" />
-  <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot" height="40" />
-  <img src="https://img.shields.io/badge/google_gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Google Gemini" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" height="40" alt="ChatGPT" />
+  <img src="https://avatars.githubusercontent.com/u/109172716?s=200&v=4" height="40" alt="GitHub Copilot" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_Gemini_logo.svg" height="40" alt="Google Gemini" />
 </p>
