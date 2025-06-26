@@ -37,7 +37,7 @@
 
 ---
 
-### ⚙️ Tools & Platforms  
+### ⚙️ Software Development Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin-right: 10px;" />
@@ -53,7 +53,7 @@
 
 ---
 
-### 🤖 AI Tools I Use  
+### 🤖 AI Tools  
 <p align="left">
  <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="ChatGPT Logo" style="margin-right: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="40" alt="Gemini" style="margin-right: 10px;" />
