@@ -51,7 +51,7 @@
 
 ### 🤖 AI Tools I Use  
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" height="40" alt="ChatGPT" />
+ <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="ChatGPT Logo" /> <img src="https://avatars.githubusercontent.com/u/109172716?s=200&v=4" height="40" alt="GitHub Copilot" /> <img
   <img src="https://avatars.githubusercontent.com/u/109172716?s=200&v=4" height="40" alt="GitHub Copilot" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Google_Gemini_logo.svg" height="40" alt="Google Gemini" />
 </p>
