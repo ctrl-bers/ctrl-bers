@@ -22,7 +22,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="40" alt="Rust" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" height="40" alt="Node.js"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/VB.NET_Logo.svg" height="40" alt=".NET" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/VB.NET_Logo.svg" height="40" alt=".NET" />
 
 </p>
 
