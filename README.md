@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" style="margin-right: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="40" alt="GitHub" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vercel_logo_2025.svg/1920px-Vercel_logo_2025.svg.png" height="40" alt="Vercel Logo" style="margin-right: 10px;" />
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" height="40" alt="Vercel Logo" style="margin-right: 10px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" height="40" alt="Stack Overflow" style="margin-right: 10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino IDE" style="margin-right: 10px;" />
   <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="40" alt="Discord" style="margin-right: 10px;" />
