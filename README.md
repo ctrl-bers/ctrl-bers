@@ -2,7 +2,7 @@
 - 👋 Hi I'm Mark Berio  
 - 🎓 Graduate with a Bachelor of Science in Computer Engineering  
 - 👀 I'm Interested in Web Development, Web Design, Technical Support, Embedded Systems, VB.NET Development  
-- 😉 I Love Playing Music on 🎵 Spotify, 🎮📲 Online Gaming (ML, CODM), and 🏀 Basketball  
+- 😉 I Love Playing Music on 🎵 Spotify, 🎮📲 Online Gaming, and 🏀 Basketball  
 
 ---
 
