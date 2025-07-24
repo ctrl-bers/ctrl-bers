@@ -56,6 +56,4 @@
 ### 🤖 AI Tools  
 <p align="left">
  <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="ChatGPT Logo" style="margin-right: 10px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" height="40" alt="Gemini" style="margin-right: 10px;" />
-  <img src="https://i.namu.wiki/i/1EoMLcxNONXAZPoo2LmPjTEHW1v6LrW5hBktMHcd9Zy8vNjgSGjRtkr92FsTHeu_v9YDUvcrdlM6raPPkNJpQvBlWRcxsDyS6w8ZVnJoO9dqmWXrAymD1In3mJXoPP_HUdDvWdVdSn87BV7C0pVORg.webp" height="40" alt="Github Copilot" style="margin-right: 10px;" />
 </p>
